@@ -1,0 +1,8 @@
+.menu-malasngoding{
+	background: blue;
+}
+
+.menu-malasngoding ul li a{
+	background: red;
+	/*float: left;*/
+}
